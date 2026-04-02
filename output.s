@@ -1,3 +1,7 @@
+; Pisit Srichumnart 673040128-3
+; Ekkasit Suwannawong 673040136-4
+; Nutthiwut Saengsaraphan 673040386-1
+
 global output_func
 extern num1
 extern num2
